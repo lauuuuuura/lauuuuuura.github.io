@@ -1,1 +1,2 @@
-redirect_from: http://lauravasilescu.ro/p/
+redirect_to:
+ - http://lauravasilescu.ro/p/
