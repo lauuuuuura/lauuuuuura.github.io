@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<meta http-equiv="refresh" content="0;url='http://lauravasilescu.ro/p/'" />
+		<meta http-equiv="refresh" content="0;url='p.html'" />
 	</head>
 	<body>
 	</body>
