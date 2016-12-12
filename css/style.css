@@ -159,7 +159,7 @@
 	
 	p, ul, ol, dl, table
 	{
-		margin-bottom: 2em;
+		margin-bottom: 0.1em;
 	}
 	
 	section,
@@ -402,7 +402,7 @@
 	.wrapper-style2
 	{
 		background-color: #fafafa;
-		text-shadow: 1px 1px 0px #fff;
+		text-shadow: 1px 1px 0px #0f0;
 	}
 	
 	.wrapper-style3
