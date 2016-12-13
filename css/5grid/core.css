@@ -1,6 +1,4 @@
 /*****************************************************************/
-/* 5grid 0.4 by n33.co | MIT+GPLv2 license licensed              */
-/* core.css: Core stylesheet                                     */
 /*****************************************************************/
 
 /**************************************************/
@@ -19,10 +17,13 @@
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
+		border: 0;
+		padding: 0;
+		margin: 0;
 	}
 
 	body {
-		line-height: 1;
+		line-height: 0;
 	}
 
 	ol, ul {

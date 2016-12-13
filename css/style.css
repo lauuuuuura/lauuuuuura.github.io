@@ -165,7 +165,7 @@
 	section,
 	article
 	{
-		margin-bottom: 3em;
+		margin-bottom: 0em;
 	}
 	
 	section > :last-child,
@@ -195,7 +195,7 @@
 	{
 		display: block;
 		width: 100%;
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 	
 	.image-left
@@ -406,8 +406,8 @@
 	
 	.wrapper-style3
 	{
+		background-image: none;
 		background-color: #f4f4f4;
-		text-shadow: 1px 1px 0px #fff;
 	}
 
 	.wrapper-style4
@@ -437,9 +437,10 @@
 		.absolute20 {
 		    display: table;
 		    position: absolute;
+		    left: 30em;
 		    top: 20em;
 		    height: 10%;
-		    width: 40%;
+		    width: 50%;
 		}
 
 /*********************************************************************************/
@@ -505,7 +506,6 @@
 
 		#top .me
 		{
-			border-radius: 50%;
 			overflow: hidden;
 		}
 
