@@ -10,19 +10,19 @@
 
 	body
 	{
-		font-size: 11pt;
+		font-size: 10pt;
 		min-width: 1200px;
 	}
 
 	h1
 	{
-		font-size: 3.25em;
+		font-size: 2.25em;
 		letter-spacing: -0.025em;
 	}
 
 	h2
 	{
-		font-size: 2em;
+		font-size: 1.75em;
 		letter-spacing: -0.015em;
 	}
 	
