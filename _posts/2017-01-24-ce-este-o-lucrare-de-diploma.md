@@ -73,6 +73,6 @@ investească mai mult efort în evaluare și ghidare pe parcursul elaborării lu
 
 Am văzut destul de des în sistemul educațional din România idei bune, dar implementate prost.
 De multe ori ideile bune le văd chiar la oamenii care nu au legătură cu sistemul
-educațional, ori cu România, ori cu ambele. Cumva aici mi se pare o jungă, un context
+educațional, ori cu România, ori cu ambele. Cumva aici mi se pare o junglă, un context
 socio-cultural ceva mai complex în care nu poți să iei lucruri care funcționează în alte
 părți și să le aplici direct. Ain't gonna work. 
