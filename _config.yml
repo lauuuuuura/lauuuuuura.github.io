@@ -8,3 +8,5 @@ url: http://laura.ro
 description: random rants
 name: Laura Vasilescu RSS
 author: Laura
+disqus:
+  shortname: laura-ro
